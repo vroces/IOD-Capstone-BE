@@ -10,7 +10,7 @@ To get started with the backend, follow these steps to install the required depe
    ```bash
    git clone https://github.com/vroces/IOD-Capstone-BE.git
 
-###Dependencies
+### Dependencies
 
 The following dependencies are used in this project:
 
@@ -23,7 +23,7 @@ mongoose: An ODM (Object Data Modeling) library for MongoDB and Node.js.
 To install all dependencies, simply run:
   npm install
 
-#####MongoDB Setup
+##### MongoDB Setup
 
 This project uses MongoDB for data storage. 
 Verify the connection:
@@ -33,7 +33,7 @@ To start the backend server and the MongoDB connection, run the following comman
   npm start
 The server will start, and it will be available on the configured port (http://localhost:5002)
 
-#### Folder Structure
+##### Folder Structure
 
 ```backend/
   ├── public/                # Static folder for images and other public assets

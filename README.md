@@ -6,10 +6,9 @@ The backend for the IOD Capstone project, developed with Node.js, Express, and M
 
 To get started with the backend, follow these steps to install the required dependencies:
 
-1. Clone the repository:
-
+1. Clone the repository to your local machine:
    ```bash
- git clone https://github.com/vroces/IOD-Capstone-BE.git
+   git clone https://github.com/vroces/IOD-Capstone-BE.git
 
 ###Dependencies
 

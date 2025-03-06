@@ -14,12 +14,12 @@ To get started with the backend, follow these steps to install the required depe
 
 The following dependencies are used in this project:
 
-axios: For making HTTP requests.
-cheerio: For parsing HTML and scraping web data.
-cors: For enabling Cross-Origin Resource Sharing.
-dotenv: For managing environment variables.
-express: A web framework for Node.js.
-mongoose: An ODM (Object Data Modeling) library for MongoDB and Node.js.
+- **axios**: For making HTTP requests.
+- **cheerio**: For parsing HTML and scraping web data.
+- **cors**: For enabling Cross-Origin Resource Sharing.
+- **dotenv**: For managing environment variables.
+- **express**: A web framework for Node.js.
+- **mongoose**: An ODM (Object Data Modeling) library for MongoDB and Node.js.
 To install all dependencies, simply run:
   npm install
 
